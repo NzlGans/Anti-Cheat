@@ -10,9 +10,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/NzlGans/followers"><img title="Followers" src="https://img.shields.io/github/followers/NazilGans?color=blue&style=flat-square"></a>
-<a href="https://github.com/NzlGans/anti-cheat/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/NazilGans/anti-cheat?color=red&style=flat-square"></a>
-<a href="https://github.com/NzlGans/anti-cheag/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NazilGans/anti-cheat?color=red&style=flat-square"></a>
-<a href="https://github.com/NzlGans/anti-cheat/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NazilGans/anti-cheat?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/NzlGans/Anti-Cheat/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/NazilGans/Anti-Cheat?color=red&style=flat-square"></a>
+<a href="https://github.com/NzlGans/Anti-Cheat/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NazilGans/Anti-Cheat?color=red&style=flat-square"></a>
+<a href="https://github.com/NzlGans/Anti-Cheat/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NazilGans/anti-cheat?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 <p align="center">
