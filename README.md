@@ -56,7 +56,8 @@ Dan Masukkan Ini Pada Command Off Admin Duty Agar Server Dapat Mengetahuinya
 	SetPVarInt(playerid, "pengamanan", 0);
 ```
 
-```Lalu Ganti Semua  Code di bawah
+```
+Lalu Ganti Semua  Code di bawah
 
 	GivePlayerMoney
 	ResetPlayerMoney
@@ -100,7 +101,7 @@ Agar Lebih Bersemangat Lagi.<br>
 •ZCMD
 •SAMP
 •Bibey (Support)
-•Allah (My Gods)
+•Allah (My God)
 •My Friends
 •Haters.
 •Balkan Samp (Servers That Have Supported Me & Ide)
