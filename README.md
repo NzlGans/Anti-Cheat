@@ -5,7 +5,7 @@
 <a href="#"><img title="Anti-Cheat" src="https://img.shields.io/badge/Anti Cheat-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/NazilGans"><img title="Author" src="https://img.shields.io/badge/Author-NzlGans-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/NzlGans"><img title="Author" src="https://img.shields.io/badge/Author-NzlGans-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 </p>
 <p align="center">
