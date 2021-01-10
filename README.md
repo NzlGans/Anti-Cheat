@@ -22,25 +22,26 @@
 
 		
 ## ANTI CHEAT + SOBEIT DETECTOR ~
-Anti Jetpack Hack
-anti Speed Hack
-Anti Money Hack
-Anti Health & Armour Hack
-Anti Money Hack
-Anti Repair Hack
-Anti AirBrake
-anti Spam
-Anti Rcon Hack
-Anti Fly Hack
-Anti Teleport Hack
-Anti Interior Hack
+Anti Jetpack Hack<br>
+anti Speed Hack<br>
+Anti Money Hack<br>
+Anti Health & Armour Hack<br>
+Anti Money Hack<br>
+Anti Repair Hack<br>
+Anti AirBrake<br>
+anti Spam<br>
+Anti Rcon Hack<br>
+Anti Fly Hack<br>
+Anti Teleport Hack<br>
+Anti Interior Hack<br>
 
 ## Tutorials
 				
-Supaya Code Berjalan Tolong Jangan Lewati/Sepelekan Langkah2 Di bawah Ini !
-•Jangan Lupa #include <anticheat> Di dalam Gamemode.
-<>
+Supaya Code Berjalan Tolong Jangan Lewati/Sepelekan Langkah2 Di bawah Ini !<br>
 ```
+Jangan Lupa #include <anticheat> Di dalam Gamemode.
+
+
 Pada OnPlayerConnect Tambahkan 
 	Anticheat_SetPlayerArmour(playerid, 0);
 	Anticheat_SetPlayerHealth(playerid, 100);
@@ -92,8 +93,8 @@ Lalu Jangan Lupa Masukkan Filterscipt Dengan Nama AntiCheatByNazil
 
 ## Closing
 •Jangan Lupa Support Saya Untuk Next projects Dengan Cara Donate saya
-Agar Lebih Bersemangat Lagi.
-•Jangan Hapus Author Yg tertera
+Agar Lebih Bersemangat Lagi.<br>
+•Jangan Hapus Author Yg tertera<br>
 -THANK'S To
 ```
 •ZCMD
@@ -104,4 +105,4 @@ Agar Lebih Bersemangat Lagi.
 •Haters.
 •Balkan Samp (Servers That Have Supported Me & Ide)
 ```
-•
+
