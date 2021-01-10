@@ -35,7 +35,7 @@ Anti Fly Hack
 Anti Teleport Hack
 Anti Interior Hack
 
-## Please Don't Remove Author.
+## Tutorials
 				
 Supaya Code Berjalan Tolong Jangan Lewati/Sepelekan Langkah2 Di bawah Ini !
 •Jangan Lupa #include <anticheat> Di dalam Gamemode.
@@ -90,4 +90,18 @@ Lalu Jangan Lupa Masukkan Filterscipt Dengan Nama AntiCheatByNazil
  Di Server.CFG
 ```
 
-##			-THANK YOU :)
+## Closing
+•Jangan Lupa Support Saya Untuk Next projects Dengan Cara Donate saya
+Agar Lebih Bersemangat Lagi.
+•Jangan Hapus Author Yg tertera
+-THANK'S To
+```
+•ZCMD
+•SAMP
+•Bibey (Support)
+•Allah (My Gods)
+•My Friends
+•Haters.
+•Balkan Samp (Servers That Have Supported Me & Ide)
+```
+•
